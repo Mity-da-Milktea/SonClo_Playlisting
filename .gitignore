@@ -1,0 +1,4 @@
+node_modules/
+data/playlists.json
+npm-debug.log*
+.DS_Store

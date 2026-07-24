@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "node src/server.js",
+    "bot": "node src/bot.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "type": "module"
+}
